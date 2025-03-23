@@ -1,4 +1,4 @@
--- Data Cleaning : เปลี่ยนชื่อหัวตารางเนื่องจากชื่อเดิมไม่สามารถนำไปวิเคราะห์เพื่อประมวลผลได้
+-- Data Cleaning : Change the header name because the original name could not be analyzed for processing.
 ALTER TABLE Datasuperstore RENAME COLUMN Row ID TO ROWID
 ALTER TABLE Datasuperstore RENAME COLUMN Order ID TO Order_ID
 ALTER TABLE Datasuperstore RENAME COLUMN Order Date TO OrderDate
@@ -11,7 +11,7 @@ ALTER TABLE Datasuperstore RENAME COLUMN Product ID TO ProductID
 ALTER TABLE Datasuperstore RENAME COLUMN Sub-Category TO Sub_Category
 ALTER TABLE Datasuperstore RENAME COLUMN Product Name TO Product_Name
   
--- Data Cleaning : ตรวจสอบข้อมูลที่ขาดหาย โดยเจาะจงไปที่ข้อมูลที่สำคัญ เช่น ยอดขาย , จำนวนการซื้อ , ส่วนลด และ กำไร
+-- Data Cleaning : Check for missing data, specifically focusing on key data such as Sales, Quantity, Discounts, and Profits.
 SELECT Sales , Quantity , Discount , Profit
 FROM DATASuperstore
 WHERE 'Sales' IS NULL OR 'Quantity' IS NULL OR 'Discount' IS NULL OR 'Profit' IS NULL;
