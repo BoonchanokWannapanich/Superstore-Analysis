@@ -1,6 +1,7 @@
 ## 📌 SQL Queries for Superstore Sales Analysis
 ### 📍 Sales Analysis
-
+```
+  
 -- หมวดหมู่สินค้าใดทำยอดขายและกำไรเฉลี่ยต่อออเดอร์ได้มากที่สุด?
 SELECT Category , avg(Sales) AS AVG_Sales , avg(Profit) AS AVG_Profit
 FROM DATASuperstore
