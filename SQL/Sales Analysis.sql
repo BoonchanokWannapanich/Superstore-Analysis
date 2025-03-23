@@ -8,6 +8,11 @@ FROM DATASuperstore
 GROUP BY Category
 ORDER BY AVG_Profit DESC;
 
+-- ผลลัพธ์ที่ได้:
+-- | Category | AVG_Sales | AVG_Profit |
+-- |----------|-----------|------------|
+-- | Technology | -------
+
 -- สินค้าใดมียอดขายสูงสุด?
 SELECT Sub_Category , sum(Sales) AS Total_Sales
 FROM DATASuperstore
