@@ -46,6 +46,16 @@ Insights and Actionable:
 -- 3. List of 5 customers buy product most frequently?
 
 Query Results:
+| CustomerID | Customer_Name | Total_Order |
+|------------|---------------|-------------|
+| WB-21850 | William Brown | 37 |
+| PP-18955 | Paul Prost | 34 |
+| MA-17560 | Matt Abelman | 34 |
+| JL-15835 | John Lee | 34 |
+| SV-20365 | Seth Vernon | 32 |
+
+Insights and Actionable:
+1. ลูกค้ากลุ่มนี้เป็นกลุ่ม High Engagement อาจเป็นลูกค้าธุรกิจที่ต้องซื้อสินค้าประจำ หรือพึงพอใจกับสินค้าและบริการของร้านค้า ควรเสนอส่วนลดพิเศษสำหรับลูกค้าที่ซื้อต่อเนื่อง และ ประชาสัมพันธ์ผ่าน SMS หรือ Email แจ้งเตือนโปรโมชั่นเฉพาะบุคคล
 
 
 
