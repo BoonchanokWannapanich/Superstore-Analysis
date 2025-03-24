@@ -1,5 +1,7 @@
-| Column 1 | Column 2 | Column 3 |
+-- 1. Which product categories generate average sales and average profit per order?
+Query Results:
+| Category | AVG_Sales | AVG_Profit |
 |----------|----------|----------|
-| Value 1  | Value 2  | Value 3  |
-| Value 4  | Value 5  | Value 6  |
-
+| Technology  | Value 2  | Value 3  |
+| Office Supplies  | Value 5  | Value 6  |
+| Furniture  | 
