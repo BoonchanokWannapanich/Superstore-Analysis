@@ -30,11 +30,12 @@ FROM DATASuperstore
 GROUP BY Sub_Category
 ORDER BY Total_Sales DESC;
 
--- Which customers buy products most frequently?
+-- List of 5 customers buy product most frequently?
 SELECT CustomerID , Customer_Name , count(ORDER_ID) AS Total_Order
 FROM DATASuperstore
 GROUP BY Customer_Name
-ORDER BY Total_Order DESC;
+ORDER BY Total_Order DESC
+Limit 5;
 
 -- Does faster shipping mode increase profits compared to sales?
 SELECT ShipMode , sum(Sales) AS Total_Sales , avg(Profit) AS AVG_Profit
