@@ -24,6 +24,12 @@ FROM DATASuperstore
 GROUP BY Category
 ORDER BY AVG_Profit DESC;
 
+| Year | Total Sales | Total Profit |
+|------|------------|-------------|
+| 2020 | 500,000.00 | 50,000.00   |
+| 2021 | 600,000.00 | 55,000.00   |
+| 2022 | 700,000.00 | 60,000.00   |
+
 -- Which products have the highest sales?
 SELECT Sub_Category , sum(Sales) AS Total_Sales
 FROM DATASuperstore
