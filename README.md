@@ -9,8 +9,3 @@ Sales Analysis (Revenue, Profit, Category Performance)
 SQLite - SQLite Query
 Excel - Pivot Table for sales analysis and Dashboards
 Power BI - Full Dashboards
-
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Value 1  | Value 2  | Value 3  |
-| Value 4  | Value 5  | Value 6  |
