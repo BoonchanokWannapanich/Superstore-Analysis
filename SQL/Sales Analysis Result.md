@@ -16,23 +16,23 @@ Insights and Actionable:
 -- 2. Which products have the highest sales?
 | Sub_Category | Total_Sales |
 |----------|----------|
-| Phone  |   |
-| Chairs  |   |
-| Storage  |   |
-| Tables  |
-| Binders  |
-| Machines  |
-| Accessories |
-| Copiers  |
-| Bookcases  |
-| Appliances  |
-| Furnishings  |
-| Paper  |
-| Supplies  |
-| Art  |
-| Envelopes  |
-| Labels  |
-| Fasteners  |
+| Phone  | 330007.05  |
+| Chairs  | 328449.10  |
+| Storage  | 223843.60  |
+| Tables  | 206965.53  |
+| Binders  | 203412.73  |
+| Machines  | 189238.63  |
+| Accessories | 167380.31  |
+| Copiers  | 149528.03 |
+| Bookcases  | 114879.99  |
+| Appliances  | 107532.16  |
+| Furnishings  | 91705.16  |
+| Paper  | 78479.20  |
+| Supplies  | 46673.53  |
+| Art  | 27118.79  |
+| Envelopes  | 16476.40  |
+| Labels  | 12486.31  |
+| Fasteners  | 3024.28  |
 
 
 
