@@ -70,10 +70,11 @@ GROUP BY Region
 ORDER BY Total_Sales DESC;
 
 -- Which cities and states have the most orders?
-SELECT City , State , sum(Sales) AS Total_Sales
+SELECT City , State , round(sum(Sales),2) AS Total_Sales
 FROM DATASuperstore
 GROUP BY State
-ORDER BY Total_Sales DESC;
+ORDER BY Total_Sales DESC
+LIMIT 10;
 
 -- Which cities are the most profitable?
 SELECT Region, SUM(Profit) AS Total_Profit 
