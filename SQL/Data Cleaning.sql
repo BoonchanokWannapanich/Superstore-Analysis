@@ -12,7 +12,7 @@ ALTER TABLE Datasuperstore RENAME COLUMN Sub-Category TO Sub_Category;
 ALTER TABLE Datasuperstore RENAME COLUMN Product Name TO Product_Name;
 ALTER TABLE Datasuperstore RENAME COLUMN Sales TO 'Sales($)';
 ALTER TABLE Datasuperstore RENAME COLUMN Discount TO 'Discount(%)';
-ALTER TABLE Datasuperstore RENAME COLUMN Profit TO 'Profit($)'
+ALTER TABLE Datasuperstore RENAME COLUMN Profit TO 'Profit($)';
   
   
 -- Data Cleaning : Check for missing data, specifically focusing on key data such as Sales, Quantity, Discounts, and Profits.
