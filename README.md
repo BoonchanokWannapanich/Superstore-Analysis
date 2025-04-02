@@ -16,3 +16,16 @@ This project will analyze the SuperStore dataset, sourced from Kaggle website by
 - Analyze the return on each type of transportation
 
 ## Tools & Technologies
+**SQLite** : Data Cleaning and Data Query.
+**Excel** : Power Query , Pivot Table , Pivot Chart and Summary statistics.
+**Power BI** : Interactive visualizations and dashboard creation.
+
+## Key Metrics
+- **Total Sales & Profit Analysis**
+- **Customer Segmentation Insights**
+- **Discount Efficiency**
+- **Regional Performance Breakdown**
+- **Shipping Mode Efficiency**
+- **Category & Subcategory Trends**
+
+This project provides a comprehensive view of Superstore's business performance, helping stakeholders make data-driven decisions. 🚀
