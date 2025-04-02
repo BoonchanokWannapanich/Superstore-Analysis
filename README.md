@@ -1,26 +1,26 @@
-# SuperStore Dataset Project Analysis
+# 📊 SuperStore Dataset Project Analysis
 ## Contents
 - [Project Description](#project-description)
 - [Objectives](#objectives)
 - [Tools & Techniques](#tools-&-techniques)
 - [Key Metrics](#key-metrics)
 
-## Project Description
+## 📌 Project Description
 This project will analyze the SuperStore dataset, sourced from Kaggle website by Vivek Chowdhury. We will then divide the analysis into 4 categories: Sales Analysis, Profit Analysis, Customer Analysis, Discount Analysis and Shipping Analysis, in order to use SQLite, Excel, and Power BI to analyze valuable business insights. we aim to answer critical business questions and optimize decision making.
 
-## Objectives
+## 🎯 Objectives
 - Identify sales trends and key revenue drivers.
 - Analyze the profitability of products in each category
 - Understand different types of customers
 - Analyze discounts and their impact on profits
 - Analyze the return on each type of transportation
 
-## Tools & Technique
+## 🛠️ Tools & Technique
 **SQLite** : Data Cleaning and Data Query.
 **Excel** : Power Query , Pivot Table , Pivot Chart and Summary statistics.
 **Power BI** : Interactive visualizations and dashboard creation.
 
-## Key Metrics
+## 📊 Key Metrics
 - **Total Sales & Profit Analysis**
 - **Customer Segmentation Insights**
 - **Discount Efficiency**
@@ -28,4 +28,4 @@ This project will analyze the SuperStore dataset, sourced from Kaggle website by
 - **Shipping Mode Efficiency**
 - **Category & Subcategory Trends**
 
-This project provides a comprehensive view of Superstore's business performance, helping stakeholders make data-driven decisions. 🚀
+This project provides a comprehensive view of Superstore's business performance, helping stakeholders make data-driven decisions. 
