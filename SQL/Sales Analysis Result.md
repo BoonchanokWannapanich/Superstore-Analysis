@@ -12,9 +12,9 @@
 | Furniture  | 349.83  | 8.69  |
 
 ### 🔍💡 Insights and Actionable:
-1. Technology มีค่าเฉลี่ยยอดขายและค่าเฉลี่ยกำไรสูงที่สุด หมายความว่า หมวดนี้มี Margin กำไรต่อชิ้นที่สูงกว่าหมวดอื่น ควรพิจารณาขยายไลน์สินค้า หรือเพิ่มโปรโมชั่นเพื่อกระตุ้นยอดขายเพิ่มเติม
-2. Office Supplies เป็นสินค้าที่มีราคาถูกเมื่อเทียบกับหมวดอื่น ๆ ทำให้ยอดขายเฉลี่ยต่ำ อย่างไรก็ตาม กำไรเฉลี่ยก็ยังสูงกว่า Furniture อาจเป็นไปได้ว่าสินค้าในหมวดนี้มี Margin ที่ดีกว่า Furniture อาจพิจารณากลยุทธ์ เพิ่มยอดขายต่อรายการ เช่น ขายเป็นแพคเกจ เพื่อเพิ่มยอดขายและกำไรต่อออเดอร์
-3. Furniture มีกำไรเฉลี่ยต่ำสุดที่ $8.69 แม้ว่าจะมียอดขายเฉลี่ยสูงถึง $349.83 อาจเป็นไปได้ว่าหมวดนี้มีต้นทุนที่สูง ควรตรวจสอบต้นทุนของสินค้าหมวดนี้ เช่น ค่าขนส่ง ค่าผลิต หรือค่าเก็บสต็อก และพิจารณาปรับกลยุทธ์ด้านราคา
+1. Technology has the highest average sales and average profit, meaning that this category has a higher profit margin per unit than other categories. Consider expanding the product line or adding promotions to stimulate additional sales.
+2. Office Supplies is a product that is cheaper compared to other categories, resulting in a low average sales volume. However, the average profit is still higher than Furniture. It is possible that products in this category have a better margin. Furniture may consider strategies to increase sales per item such as selling in packages to increase sales and profit per order.
+3. Furniture has the lowest average profit margin at $8.69, despite having the highest average sales of $349.83. This category may have higher costs, so it's best to review the costs of the product in this category such as shipping, manufacturing, inventory, and consider adjusting your pricing strategy.
 
 
 ## 🚀 2. Which products have the highest sales?
@@ -42,9 +42,8 @@
 | Fasteners  | 3024.28  |
 
 ### 🔍💡 Insights and Actionable:
-1. หมวดที่เกี่ยวข้องกับ เทคโนโลยี (Phone, Machines, Copiers) และ เฟอร์นิเจอร์สำนักงาน (Chairs, Tables, Storage) เป็นหมวดที่มียอดขายสูง แสดงถึงความต้องการที่มั่นคง ควรเน้นการสต็อกสินค้า & โปรโมชั่นเพิ่มเติม
-2. Fasteners (3K), Labels (12K), และ Envelopes (16K) มียอดขายต่ำมาก เพราะสินค้าหมวดนี้อาจเป็นสินค้าราคาถูก หรือมีความต้องการต่ำ ควรพิจารณาว่า ควรลดสต็อกหรือส่งเสริมการขาย
-
+1. Categories related to Technology (Phone, Machines, Copiers) and Office Furniture (Chairs, Tables, Storage) are the categories with high sales, showing stable demand. Emphasis should be placed on stocking products & additional promotions.
+2. Fasteners (3K), Labels (12K), and Envelopes (16K) have very low sales volumes, as these items may be low price or in low demand. Consider reducing inventory or promoting sales.
 
 ## 🚀 3. List of 5 customers buy product most frequently?
 
@@ -59,7 +58,7 @@
 | SV-20365 | Seth Vernon | 32 |
 
 ### 🔍💡 Insights and Actionable:
-1. ลูกค้ากลุ่มนี้เป็นกลุ่ม High Engagement อาจเป็นลูกค้าธุรกิจที่ต้องซื้อสินค้าประจำ หรือพึงพอใจกับสินค้าและบริการของร้านค้า ควรเสนอส่วนลดพิเศษสำหรับลูกค้าที่ซื้อต่อเนื่อง และ ประชาสัมพันธ์ผ่าน SMS หรือ Email แจ้งเตือนโปรโมชั่นเฉพาะบุคคล
+1. This group of customers is a high engagement group. They may be business customers who have to buy products regularly or are satisfied with the products and services of the store. You should offer special discounts for customers who buy continuously and publicize via SMS or Email to notify the individual promotions.
 
 
 ## 🚀 4. Does faster shipping mode increase profits compared to sales?
@@ -74,9 +73,9 @@
 | Standard Class | 1358215.74 | 27.49 |
 
 ### 🔍💡 Insights and Actionable:
-1. First Class มีกำไรเฉลี่ยสูงสุด อาจเป็นเพราะสินค้าที่ใช้บริการ First Class มีมูลค่าสูงหรือลูกค้าต้องการป้องกันความเสียหายที่เกิดจากการขนส่งมากที่สุด ทำให้ร้านค้าสามารถตั้งราคาบริการส่งของสูงขึ้นเพื่อชดเชยต้นทุนในการจัดส่งได้ ควรเร่งโปรโมตหรือคิดกลยุทธ์เพื่อดึงดูดลูกค้าให้มาใช้บริการขนส่งแบบ First Class มากยิ่งขึ้น
-2. Second Class และ Same Day มีกำไรเฉลี่ยที่ใกล้เคียงกัน อาจเป็นเพราะบริการทั้ง 2 รูปแบบนี้ มีต้นทุนในการขนส่งที่ใกล้เคียงกันแต่ต่างกันที่รูปแบบในการจัดส่ง (Second Class เน้นความปลอดภัยของสินค้า , Same Day เน้นความรวดเร็วในการจัดส่ง)
-3. Standard Class มียอดขายสูงสุด แต่กำไรเฉลี่ยต่ำที่สุด อาจเป็นเพราะต้นทุนการจัดส่งถูกลง แต่มาร์จิ้นกำไรต่อออเดอร์ต่ำ
+1. First Class has the highest average profit margin because the products using First Class service are of high value or customers want to prevent damage from transportation as much as possible. This allows stores to set higher shipping prices to offset shipping costs. They should accelerate promotion or think of strategies to attract more customers to use First Class shipping services.
+2. Second Class and Same Day have similar average profits, which may be because both services have similar shipping costs but differ in their delivery methods (Second Class emphasizes product safety, Same Day emphasizes fast delivery).
+3. Standard Class has the highest sales but the lowest average profit, possibly because shipping costs are lower but the profit margin per order is lower.
 
 
 ## 🚀 5. How does offering discounts affect profits?
