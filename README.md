@@ -14,3 +14,5 @@ This project will analyze the SuperStore dataset, sourced from Kaggle website by
 - Understand different types of customers
 - Analyze discounts and their impact on profits
 - Analyze the return on each type of transportation
+
+## Tools & Technologies
