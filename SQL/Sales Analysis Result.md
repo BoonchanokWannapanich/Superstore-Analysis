@@ -98,8 +98,8 @@
 | 0.8 | -101.79 |
 
 ## 🔍💡 Insights and Actionable:
-1. ส่วนลด 10% อาจช่วยเพิ่มกำไรเฉลี่ยได้มากที่สุด อาจเป็นเพราะส่วนลดประมาณ 10% เป็นการกระตุ้นยอดขายได้ดีที่สุด ส่งผลให้ยอดขายเพิ่มขึ้นเพียงพอที่จะชดเชยกับส่วนลดที่เสียไป
-2. ส่วนลดตั้งแต่ 15% - 80% เริ่มส่งผลกระทบเชิงลบต่อกำไรมากขึ้น โดยเฉพาะส่วนลดช่วง 30% เป็นต้นไปทำให้กำไรติดลบหนัก ควรใช้กลยุทธ์อื่นแทนส่วนลด เช่น Cashback หรือการสะสมคะแนนแลกส่วนลด เพื่อกระตุ้นยอดขายให้ลูกค้ากลับมาซื้อใหม่อีกครั้ง ซึ่งจะไม่กระทบกับกำไรมากเท่าการให้ส่วนลดทีเดียวเยอะๆ โดยส่วนลดในปริมาณมากควรเอาไว้ใช้ในการ Clearance สินค้าแทน
+1. 10% discount may provide the biggest increase in average profit, perhaps because discounts of around 10% are the best sales stimulus, resulting in enough sales increases to offset the loss in discounts.
+2. Discounts from 15% - 80% have a greater negative impact on profits, especially discounts starting from 30% can lead to even greater negative profits. Other strategies should be used instead of discounts, such as cashback or point redemption to encourage customers to make repeat purchases which will not affect profits as much as giving a large discount at once. The large discounts should be used to clear products instead.
 
 
 ## 🚀 6. List of 10 customers who generate the highest profit compared to sales and want to know what products the customers buy?
@@ -120,9 +120,9 @@
 | Daniel Raglin | Office Supplies | Binders | 8350.86 | 2869.07 |
 
 ## 🔍💡 Insights and Actionable:
-1. Office Supplies (Binders, Art, Envelopes) เป็นสินค้าทำกำไรสูงสุด โดย 6 ใน 10 คนนี้ซื้อสินค้าจากหมวด Office Supplies ควรกระตุ้นยอดขายสินค้าในหมวดนี้
-2. แม้ว่าสินค้าในหมวด Furniture จะมีกำไรเฉลี่ยต่ำ แต่ก็มีสินค้าบางอย่างที่สร้างกำไรได้ค่อนข้างสูง เช่น Chairs , Tables ควรโปรโมตสินค้าเป็นรายการๆ
-3. สินค้าหมวด Technology มีเพียงรายเดียว คือ Tom Ashbrook อาจเป็นเพราะสินค้าบางอย่าง เช่น Copiers อาจสร้างกำไรได้ดี แต่ขายได้น้อยกว่าสินค้าในหมวดอื่นๆ เนื่องจากสินค้าในหมวดนี้จะถูกซื้อในปริมาณที่จำกัด
+1. Office Supplies (Binders, Art, Envelopes) are the most profitable products, with 6 out of 10 people buying from the Office Supplies category. Sales in this category should be boosted.
+2. Although the average profit margin in the Furniture category is low, there are some products that generate relatively high profit margins, such as Chairs, Tables. You should promote products individually.
+3. The Technology category has only one customer, Tom Ashbrook. This may be because some products such as Copiers may be profitable but sell less than other categories, as products in this category are purchased in limited quantities.
 
 
 ## 🚀 7. Top 10 list of most profitable product names compared to sales and what category do the products belong?
@@ -143,9 +143,9 @@
 | Office Supplies |	Envelopes |	16476.4 |	6964.18
 
 ## 🔍💡 Insights and Actionable:
-1. สินค้าหมวด Technology  เป็นสินค้าทำกำไรสูงสุด ควรหากลยุทธ์เพื่อเพิ่มยอดขาย เช่น Copiers อาจจะขายพ่วงกับหมึก หรือ Phones อาจจะขายร่วมกับเคสหรือสายชาร์จความเร็วสูง เป็นต้น
-2. สินค้าหมวด Office Supplies มี Margin ค่อนข้างสูง ควรใช้กลยุทธ์ในการทำให้สินค้าประเภทนี้ถูกสั่งซื้อในปริมาณมากต่อครั้ง
-3. สินค้าหมวด Furniture มียอดขายที่สูงแต่กำไรค่อนข้างต่ำ อาจจะต้องพิจารณาถึงต้นทุนในการผลิต และหาสินค้าอื่นที่มี Margin สูงกว่ามาขาย
+1. Technology products are the most profitable products. You should find a strategy to increase sales, such as selling Copiers with ink or selling Phones with cases or high-speed charging cables, etc.
+2. Office supplies have a high margin. Strategies should be used to ensure that such products are ordered in large quantities each time.
+3. The sales revenue of furniture products is high, but the profit is relatively low. It may be necessary to consider production costs and find other products with higher profit margins to sell.
 
 
 ## 🚀 8. Which region has the most orders?
@@ -160,8 +160,8 @@
 | South |	391721.91 |
 
 ## 🔍💡 Insights and Actionable:
-1. ภูมิภาค West และ East มียอดขายสูงสุดที่ $725K และ $678K ตามลำดับ อาจเป็นเพราะมีรัฐที่ขนาดเศรษฐกิจใหญ่ , พฤติกรรมการซื้อที่สูง และมีอุตสาหกรรมที่แข็งแกร่ง เช่น West(California , Washington) , East(New York , Pennsylvania) เป็นต้น ควรใช้กลยุทธ์ส่งเสริมการขายเพื่อรักษาตลาดที่แข็งแกร่ง
-2. ภูมิภาค Central และ South มียอดขายต่ำกว่า อาจเป็นเพราะจำนวนลูกค้าน้อยกว่า หรือการเข้าถึงสินค้ายังไม่ทั่วถึง ควรใช้กุลยุทธ์หรือโปรโมชั่นเพื่อเพิ่มยอดขายและวิเคราะห์หาปัจจัยหรือนำโมเดลธุรกิจของภูมิภาค West และ East มาปรับใช้เพื่อขยายตลาดไปยังภูมิภาคอื่นๆ
+1. West and East regions have the highest sales at $725K and $678K respectively. This may be due to the large economies, high purchasing behaviors and strong industries such as West(California, Washington), East(New York, Pennsylvania) etc. Promotional strategies should be used to maintain a strong market.
+2. The Central and South regions have lower sales, possibly due to fewer customers or lack of widespread product access. Strategies or promotions should be used to increase sales and factors should be analyzed or business models from the West and East regions should be adapted to expand the market to other regions.
 
 
 ## 🚀 9. Which cities and states have the most orders?
@@ -182,9 +182,9 @@
 | Springfield |	Virginia |	70636.72 |
 
 ## 🔍💡 Insights and Actionable:
-1. รักษาตลาดหลักใน Los Angeles และ New York เนื่องจากเป็นตลาดที่มียอดขายสูง ควรใช้โปรโมชั่นพิเศษเพื่อรักษาและขยายให้เติบโตมากยิ่งขึ้น
-2. ขยายตลาดใน Texas และ Washington เนื่องจาก Texas เป็นเมืองขนาดใหญ่ทำให้มีโอกาสที่จะขยายตลาดไปยังเมืองอื่นได้ง่าย ในขณะที่ Washington เป็นศุนย์กลางทางด้านเทคโนโลยี ทำให้มีช่องทางในการขยายตลาดสินค้าประเภท Technology ได้มากยิ่งขึ้น
-3. รัฐที่ไม่ใช่ศูนย์กลางเศรษฐกิจ เช่น Ohio , Michigan และ Virginia ก็สามารถเพิ่มศักยภาพในการเติบโตได้ อาจเป็นการสร้างแคมเปญเพื่อดึงดูดลูกค้าเพิ่ม
+1. Maintain the core markets of Los Angeles and New York as these are high selling markets. Special promotions should be used to maintain and expand.
+2. Expand the markets in Texas and Washington. As Texas is a large city, it is easy to expand the market to other cities. Although Washington is a technology center, it provides more channels for expanding technology products.
+3. Non economic center states like Ohio, Michigan and Virginia can also increase their growth potential, perhaps by creating campaigns to attract more customers.
 
 
 ## 🚀 10. Which cities are the most profitable?
@@ -199,9 +199,9 @@
 | Central |	39706.36 |
 
 ## 🔍💡 Insights and Actionable:
-1. ภูมิภาค West  เป็นภูมิภาคที่ทำกำไรสูงสุด เกิดจากยอดขายที่สูงและอัตรากำไรที่ดี
-2. ภูมิภาค East ทำกำไรเป็นอันดับสอง อาจมีโอกาสขยายเพื่อเพิ่มกำไรให้เทียบเท่ากับภูมิภาค West ได้
-3. ภูมิภาค South และ Central มีกำไรต่ำกว่ามาก ควรวิเคราะห์ว่าปัญหาคืออะไร เช่น ต้นทุนการขนส่ง หรือกำไรของสินค้า และปรับกลยุทธ์ราคาและโปรโมชั่นให้เหมาะกับแต่ละภูมิภาค
+1. The West region is the most profitable region due to high sales and good profit margins.
+2. The East region is the second most profitable, May have the opportunity to expand to achieve comparable profit growth as the western region.
+3. South and Central regions have much lower profits. It is important to analyze the problem such as transportation costs or goods profits and adjust prices and promotional strategies according to each region.
 
 
 
