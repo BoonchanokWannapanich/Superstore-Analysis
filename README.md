@@ -19,7 +19,7 @@ This analysis explores a dataset of a SuperStore business data in the United Sta
 - Analyze the return on each type of transportation
 
 ## 🛠️ Tools & Technique
-- **SQLite** : Data Cleaning and Data Query.
+- **SQL** : Data Cleaning and Data Query.
 - **Excel** : Power Query , Pivot Table , Pivot Chart and Summary statistics.
 - **Power BI** : Interactive visualizations and dashboard creation.
 
