@@ -17,3 +17,5 @@ This folder contains Excel files used for transformation and initial analysis in
    - business trends and insights
   
 💡 These analyses help uncover business trends and insights before creating advanced visualizations in Power BI.
+
+📌 You can view the analysis results for each category by folder, or if you want to view the full database, click on the Superstore Excel Analysis.xlsx file and click on View raw or Download raw file.
