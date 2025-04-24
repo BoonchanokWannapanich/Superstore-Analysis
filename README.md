@@ -6,7 +6,7 @@
 - [Key Metrics](#key-metrics)
 
 ## 📌 Project Description
-This project will analyze the SuperStore dataset, sourced from Kaggle website by Vivek Chowdhury. We will then divide the analysis into 4 categories: Sales Analysis, Profit Analysis, Customer Analysis, Discount Analysis and Shipping Analysis, in order to use SQLite, Excel, and Power BI to analyze valuable business insights. we aim to answer critical business questions and optimize decision making.
+This project will analyze the SuperStore dataset, sourced from Kaggle website by Vivek Chowdhury. We will then divide the analysis into 4 categories: Sales Analysis, Profit Analysis, Customer Analysis, Discount Analysis and Shipping Analysis, in order to use SQL, Excel, and Power BI to analyze valuable business insights. we aim to answer critical business questions and optimize decision making.
 
 ## 📄 Source of Superstore Dataset
 This analysis explores a dataset of a SuperStore business data in the United States from 2014 to 2017. The dataset can be downloaded from the official Kaggle website: [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/)
